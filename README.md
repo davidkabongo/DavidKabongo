@@ -1,6 +1,7 @@
-## 🧑🏾‍💻 I'm a CS Student and Aspiring Entrepreneur
+### 🧑🏾‍💻 I'm a CS Student and Aspiring Entrepreneur
+- I enjoy bodybuilding, finance, fashion, and nature!
 
-### 🌱 Skills
+#### 🌱 Skills
 * Java
 * Git
 * Figma
