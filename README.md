@@ -1,4 +1,5 @@
-![battle](https://github.com/davidkabongo/DavidKabongo/assets/97849138/42d8b243-123e-4861-90b1-856b6a349590)
+![kimi](https://github.com/davidkabongo/DavidKabongo/assets/97849138/d07e63e1-e003-473d-80b3-3f65c460fa3b)
+
 ## ⭐️ Hi, I'm David ⭐️
 #### I'm a CS Student who enjoys bodybuilding, fashion, soccer, anime, and reading.
 #### 🎯 Goal: Get comfortable with DSA
