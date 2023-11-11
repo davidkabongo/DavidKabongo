@@ -1,11 +1,8 @@
-![gb](https://github.com/davidkabongo/DavidKabongo/assets/97849138/96cea9c7-248e-4873-908d-f2db76c762d3)
-
-## ⭐️ Hi, I'm David ⭐️
-#### I'm a CS Student who enjoys bodybuilding, fashion, soccer, anime, and reading.
+!['Ray so Export](https://github.com/davidkabongo/DavidKabongo/assets/97849138/7e60ab9e-19cf-4213-b8b9-5d2a6a40d991)
+-----
 #### 🎯 Goal: Get comfortable with DSA
 #### 🧑🏾‍💻 Working on: Pantry Pal & TicketScout
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=davidkab04&cover_image=true&theme=natemoo-re&show_offline=true&background_color=030303&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 -----
 
 ### 🌱 Skills
