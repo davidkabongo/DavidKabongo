@@ -1,6 +1,6 @@
 ## ⭐️ Hi, I'm David ⭐
 
-  I'm a Computer Science major and aspiring entrepreneur based in the United States. I love reading, watching anime, playing soccer, making lists, and of course, coding!
+  I'm a Computer Science major and aspiring entrepreneur based in the United States. I love reading, watching anime, playing soccer, working out, and of course, coding!
 
 ### 💎 Skills
 
