@@ -11,10 +11,11 @@
 -----
 
 ### ⚽️ Fun Facts
-- My favorite anime is Naruto
-- Messi is my favorite footballer
-- I own a clothing brand
-- French is my first language
+- I'm Congolese 🇨🇩
+- My favorite anime is Naruto 🍜
+- Messi is my favorite footballer 🇦🇷
+- I own a clothing brand 💰
+- French is my first language 🇫🇷
 
 -----
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=davidkab04&cover_image=true&theme=natemoo-re&show_offline=true&background_color=030303&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
