@@ -2,7 +2,7 @@
 
   I'm a Computer Science major and aspiring entrepreneur based in the United States. I love reading, watching anime, playing soccer, working out, and of course, coding! I'll be graduating with my Computer Science Degree in 2026!
 
-### 💎 Skills
+### 👨🏾‍💻 Skills
 
 **Languages:** `Java` `Python` `HTML` `CSS` `Javascript` `SQL` `C` `LaTeX`
 
@@ -10,11 +10,10 @@
 
 -----
 
-### ⚽️ Fun Facts
+### 💎 Fun Facts
 - I'm Congolese 🇨🇩
 - My favorite anime is Naruto 🍜
-- Messi is my favorite footballer 🇦🇷
-- I own a clothing brand 💰
+- I play football (soccer) ⚽️
 - French is my first language 🇫🇷
 
 -----
