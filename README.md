@@ -13,7 +13,7 @@
 ### 💎 Fun Facts
 - I'm Congolese 🇨🇩
 - My favorite anime is Naruto 🍜
-- I play football (soccer) ⚽️
+- I play football ⚽️
 - French is my first language 🇫🇷
 
 -----
