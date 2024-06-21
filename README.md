@@ -4,7 +4,7 @@ I'm a Computer Science major and aspiring entrepreneur in the United States. I l
 
 ### 👨🏾‍💻 Skills
 
-**Languages:** `Java` `Python` `HTML` `CSS` `Javascript` `SQL` `C` `LaTeX`
+**Languages:** `Java` `Python` `HTML` `CSS` `Javascript` `SQL` `LaTeX`
 
 **Tools:** `VS Code` `Git` `MySQL` `Figma`    
 
@@ -17,4 +17,4 @@ I'm a Computer Science major and aspiring entrepreneur in the United States. I l
 - 🪡 I own a clothing brand
 
 -----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=davidkab04&cover_image=true&theme=natemoo-re&show_offline=true&background_color=030303&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=davidkab04&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
