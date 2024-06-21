@@ -1,6 +1,6 @@
 ## ⭐️ Hi, I'm David ⭐
 
-I'm a Computer Science major and aspiring entrepreneur in the United States. I love reading, watching anime, playing soccer, working out, and coding! I'll be graduating with my Computer Science Degree in 2026!
+I'm an aspiring software engineer and entrepreneur studying computer science at UNC Charlotte. I plan to use my skills to impact the world and inspire everyone to get into STEM. If you need help on your project, let's work!
 
 ### 👨🏾‍💻 Skills
 
