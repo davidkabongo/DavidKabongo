@@ -12,7 +12,6 @@ I'm an aspiring software engineer and entrepreneur studying computer science at 
 
 ### 💎 Fun Facts
 - 🇫🇷 French is my first language
-- 👺 I love watching anime 
 - ⚽️ I play football
 - 🪡 I own a clothing brand
 
