@@ -4,7 +4,7 @@ I’m a Computer Science student at UNC Charlotte with a target graduation date 
 ### 💎 Fun Facts
 - 🇫🇷 French is my first language
 - ⚽️ Football is my favorite sport
-- 🪡 I own a clothing brand
+- 👕 I own a clothing brand
 
 ### 💥 What I'm Working On
 - 🍃 Honing my backend skills with Spring Boot + MySQL
