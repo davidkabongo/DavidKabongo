@@ -7,8 +7,8 @@ I’m a Computer Science student at UNC Charlotte with a target graduation date 
 - 👕 I own a clothing brand
 
 ### 💥 What I'm Working On
-- 🍃 Honing my backend skills with Spring Boot + MySQL
 - 🔨 Building projects in AI/ML, finance, sports, fashion, etc.
+- 🌱 Becoming the best man I can be
 
 ### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-kabongo) 
