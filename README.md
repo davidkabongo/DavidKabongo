@@ -8,7 +8,7 @@ I’m a Computer Science student at UNC Charlotte with a target graduation date 
 
 ### 💥 What I'm Working On
 - 🔨 Building projects in AI/ML, finance, sports, fashion, etc.
-- 🌱 Becoming the best man I can be
+- ❤️ Spreading the love for coding to others 
 
 ### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-kabongo) 
