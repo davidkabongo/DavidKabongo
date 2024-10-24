@@ -6,9 +6,9 @@ I’m a Computer Science student at UNC Charlotte with a target graduation date 
 - ⚽️ Football is my favorite sport
 - 👕 I own a clothing brand
 
-### 💥 What I'm Working On:
+### 🎯 My Goals:
 - 🔨 Building projects in AI/ML, finance, sports, fashion, etc.
-- ❤️ Spreading the love of coding to others 
+- ❤️ Spreading the love of coding to others
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-kabongo) 
