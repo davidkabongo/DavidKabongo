@@ -1,5 +1,5 @@
 <h1 align="center">⭐️Hi, I'm David Kabongo⭐️</h1>
-I’m a Computer Science student at UNC Charlotte with a target graduation date of May 2026. I am passionate about AI/ML, web development, and making the world a better place through code.
+I’m a Computer Science student at UNC Charlotte, and my target graduation date is May 2026. I am passionate about AI/ML, web development, and making the world a better place through code.
 
 ### 💎 Fun Facts
 - 🇫🇷 French is my first language
