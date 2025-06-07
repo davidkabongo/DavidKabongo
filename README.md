@@ -1,13 +1,12 @@
 <h1 align="center">⭐️Hi, I'm David Kabongo⭐️</h1>
-I’m a Computer Science student at UNC Charlotte, graduating in 2026. I am passionate about AI/ML, web development, and making the world a better place through code.
+I’m a Computer Science student at UNC Charlotte, graduating in 2026. I am passionate about AI/ML, web development, and using code to make the world a better place.
 
 ### 💎 Fun Facts
-- 🇫🇷 I'm Congolese
+- 🇨🇩 I'm Congolese
 - ⚽️ My favorite team is FC Barcelona
 - 👕 I know how to sew
 
 ### 🎯 Current Goals
-- 📚 Level up in data structures and algorithms using Python
 - 🚀 Build and launch [🔐]
 - 🛠️ Improve my backend skills with PostgreSQL and REST APIs
 - 🧪 Learn how to write unit and integration tests effectively
