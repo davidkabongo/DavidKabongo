@@ -1,15 +1,16 @@
 <h1 align="center">⭐️Hi, I'm David Kabongo⭐️</h1>
 I’m a Computer Science student at UNC Charlotte, graduating in 2026. I am passionate about AI/ML, web development, and using code to make the world a better place.
 
-### 💎 Fun Facts
-- 🪡 I'm learning how to sew
-- ⚽️ My football team is FC Barcelona 🔵🔴
-- 🍜 My top five anime are: Naruto, Attack on Titan, Jojo's Bizarre Adventure, Fullmetal Alchemist, and One Piece
 
 ### 🎯 Current Goals
 - 🚀 Build and launch [COMING SOON 🔐]
 - ⚖️ Balance technical learning with creativity and product thinking
 - 🧪 Learn basic DevOps practices (CI/CD, Docker, deployment)
+
+### 💎 Fun Facts
+- 🪡 I'm learning how to sew
+- ⚽️ My football team is FC Barcelona 🔵🔴
+- 🍜 My top five anime are: Naruto, Attack on Titan, Jojo's Bizarre Adventure, Fullmetal Alchemist, and One Piece
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-kabongo)
